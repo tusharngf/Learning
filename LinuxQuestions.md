@@ -1,7 +1,7 @@
 # Learning
 
 
-Process SLA
+Process SLA.
 
 Incident: 
 P1 - Immediate response 4 hours resolution
